@@ -9,7 +9,7 @@ http://br.linkedin.com/in/geovanerocha
 #
 ## Experience
 ```javascript
-var companies = {
+var experience = {
     cnova: {
         name: 'Cnova',
         title: 'Frontend Engineer',
@@ -56,13 +56,13 @@ var companies = {
 ```
 ## Skills
 ```javascript
-var skills = {
-    programming_languages: [
+var skill = {
+    programming_language: [
         'HTML',
         'CSS',
         'Javascript'
     ],
-    technologies: [
+    technology: [
         'jQuery',
         'Jade',
         'AngularJS',
