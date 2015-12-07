@@ -1,7 +1,9 @@
 # Geovane Rocha do Carmo  
 #### Front-End Engineer
 24 years old, Brazillian. Living in São Paulo - Brazil
+#
 @geovanerch
+#
 unkfgx@gmail.com
 
 Around 5 years working with web development, always increasing my knowledge and help others developer as I can.
