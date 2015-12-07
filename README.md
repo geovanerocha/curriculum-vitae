@@ -9,39 +9,43 @@ var companies = {
         name: 'Cnova',
         title: 'Frontend Engineer',
         start_date: '11/2015',
-        actual_job: true
+        present_job: true
     },
     infracommerce: {
         name: 'Infracommerce',
         title: 'Mid Frontend Developer',
         start_date: '02/2015',
-        actual_job: false
+        present_job: false
     },
     clickbus: {
         name: 'ClickBus',
         title: 'Frontend Engineer',
         start_date: '11/2014',
-        actual_job: false
+        present_job: false
     },
     infracommerce_:{
         name: 'Infracommerce',
         title: 'Junior Frontend Developer',
         start_date: '05/2014'
+        present_job: false
     },
     tesla: {
         name: 'Tesla',
         title: 'Junior Frontend Developer',
         start_date: '04/2013',
+        present_job: false
     },
     flex_interativa: {
         name: 'Flex Interativa',
         title: 'PHP Developer',
-        start_date: '11/2012'
+        start_date: '11/2012',
+        present_job: false
     },
     pixell_tecnologia: {
         name: 'Pixell Tecnologia',
         title: 'Projects Assistant',
-        start_date: '01/2009'
+        start_date: '01/2009',
+        present_job: false
     }
 };
 ```
