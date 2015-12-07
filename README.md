@@ -1,6 +1,6 @@
 # Geovane Rocha do Carmo  
 #### Front-End Engineer
-24 years old, Brazillian - living in São Paulo - Brazil
+24 years old, Brazillian. Living in São Paulo - Brazil
 #
 ## Experience
 ```javascript
