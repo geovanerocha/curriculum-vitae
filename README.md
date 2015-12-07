@@ -8,17 +8,20 @@ var companies = {
     cnova: {
         name: 'Cnova',
         title: 'Frontend Engineer',
-        start_date: '11/2015'
+        start_date: '11/2015',
+        actual_job: true
     },
     infracommerce: {
         name: 'Infracommerce',
         title: 'Mid Frontend Developer',
-        start_date: '02/2015'
+        start_date: '02/2015',
+        actual_job: false
     },
     clickbus: {
         name: 'ClickBus',
         title: 'Frontend Engineer',
-        start_date: '11/2014'
+        start_date: '11/2014',
+        actual_job: false
     },
     infracommerce_:{
         name: 'Infracommerce',
@@ -28,7 +31,7 @@ var companies = {
     tesla: {
         name: 'Tesla',
         title: 'Junior Frontend Developer',
-        start_date: '04/2013'
+        start_date: '04/2013',
     },
     flex_interativa: {
         name: 'Flex Interativa',
